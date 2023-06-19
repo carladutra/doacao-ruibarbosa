@@ -2,6 +2,15 @@ body{
     background-color: #f4dc98;
 }
 
+h1{
+    text-align: center;
+}
+
 .img{
     width: 30%;
+}
+
+.principal{
+    width: 80%;
+    text-align: justify;
 }
